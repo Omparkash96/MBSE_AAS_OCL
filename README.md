@@ -1,7 +1,7 @@
 # MBSE_AAS_OCL
 
 This repository contains all models, files, and scripts developed as part of the research work described in the paper:
-“Integration of Semantic OCL Constraints with Asset Administration Shells for Model-Based Systems Engineering.”
+“Asset Administration Shell-Based Object Constraint Language Validation Framework for Model-Based System Engineering”
 
 The study presents a complete workflow for applying semantic OCL constraints to information models using the Asset Administration Shell (AAS) as a central integration layer. The approach demonstrates how constraints can be validated over model instances and how the results can be integrated into AASs for interoperability, transparency, and machine processing.
 
