@@ -1,4 +1,4 @@
-# MBSE_AAS_OCL
+# Asset Administration Shell-Based Object Constraint Language Validation Framework for Model-Based System Engineering
 
 This repository contains all models, files, and scripts developed as part of the research work described in the paper:
 “Asset Administration Shell-Based Object Constraint Language Validation Framework for Model-Based System Engineering”
